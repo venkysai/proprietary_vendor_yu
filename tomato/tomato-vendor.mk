@@ -313,4 +313,5 @@ PRODUCT_PACKAGES += \
     imssettings \
     imscmlibrary \
     qcnvitems \
-    qcrilhook
+    qcrilhook \
+    libaudioalsa
